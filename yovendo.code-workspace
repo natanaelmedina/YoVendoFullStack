@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "Api"
+		},
+		{
+			"path": "ssl"
+		},
+		{
+			"path": "web"
+		}
+	],
+	"settings": {
+		"search.useIgnoreFiles": false
+	}
+}
